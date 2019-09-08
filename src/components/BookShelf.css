@@ -1,0 +1,35 @@
+.table {
+  margin-left: .94rem;
+  list-style: none !important;
+  padding: 1.12rem 0 1.88rem;
+  color: #000;
+  font-size: .7rem;
+  overflow: hidden;
+  width: 100%;
+
+}
+li {
+  width: 100%;
+  border-top: solid 1px #42bd56;
+  padding-right: 1.12rem;
+  height: 3rem;
+  display: list-item;
+  color: #42bd56;
+  line-height: 3rem;
+  margin-left: 0;
+
+}
+
+li:nth-child(16) {
+  border-bottom: 1px solid #eee;
+}
+
+
+
+.td{
+  width: 30%;
+}
+
+.table1{
+  width: 100%;
+}
